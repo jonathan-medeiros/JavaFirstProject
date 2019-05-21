@@ -11,6 +11,6 @@ public class JavaFirstProject {
         System.out.println("Branch!!!");
         System.out.println("Master!!!");
         System.out.println("New!!");
-        System.out.println("Finish branch!!!");
+        System.out.println("Finish branch!!");
     }
 }
