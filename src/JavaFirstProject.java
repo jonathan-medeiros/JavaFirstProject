@@ -7,10 +7,10 @@ public class JavaFirstProject {
             System.out.println("Number " + i);
         }
 
+
         System.out.println("Branch!!!");
         System.out.println("Master!!!");
         System.out.println("New!!");
-
-
+        System.out.println("Finish branch!!!");
     }
 }
