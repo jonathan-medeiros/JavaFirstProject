@@ -5,5 +5,7 @@ public class JavaFirstProject {
 
         System.out.println("Ready2!!");
 
+        System.out.println("Ready3!!");
+
     }
 }
