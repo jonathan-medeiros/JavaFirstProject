@@ -8,7 +8,8 @@ public class JavaFirstProject {
         }
 
         System.out.println("Branch!!!");
-
+        System.out.println("Master!!!");
+        System.out.println("New!!!");
 
 
     }
