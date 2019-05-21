@@ -7,7 +7,8 @@ public class JavaFirstProject {
             System.out.println("Number " + i);
         }
 
-        System.out.println("Finish!!!");
+        System.out.println("Brach!!!");
+
 
     }
 }
